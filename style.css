@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(111, 109, 106);
+}
+
+/* // this is conatiner and we are making some changes in styles */
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+/* // table */
+table{
+    margin: auto;
+}
+/* 
+
+// adding some styles in input */
+input{
+    border-radius: 21px;
+    border: 5px solid #244624;
+    font-size:34px;
+    height: 65px;
+    width: 400px;
+}
+
+/* 
+// adding styles in button */
+button{
+    border-radius: 20px;
+    font-size: 25px;
+    background: #97f190;
+    width: 80px;
+    height: 70px;
+    margin: 6px;
+}
+
+
+/* // this is calculator  */
+.calculator{ 
+    border: 4px rgba(236, 14, 14, 0.877);
+    background-color: #5913db3d;
+    padding: 10px;
+    border-radius: 45px;
+    display: inline-block;
+    
+}
+/* 
+// making some changes in h1 tag */
+h1{
+    color:rgb(249, 243, 243);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
